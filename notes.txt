@@ -1,0 +1,3 @@
+Modified from https://github.com/amdevine/ggi-gardens-photos
+
+Modified with additional error handling for Morgan Gostel, around March 17, 2024.
